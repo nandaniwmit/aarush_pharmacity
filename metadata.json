@@ -1,0 +1,6 @@
+{
+  "name": "Aarush Pharmacity",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs in AP Colony, Gaya, Bihar. Dedicated to providing genuine prescription medicines, healthcare devices, and daily wellness items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

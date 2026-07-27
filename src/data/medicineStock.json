@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Pantocid 40mg",
+    "brand": "Sun Pharma",
+    "mrp": 165.50,
+    "availableQuantity": 150,
+    "expiry": "2027-11",
+    "status": "Available",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 2,
+    "name": "Paracetamol 650mg (Dolo)",
+    "brand": "Micro Labs",
+    "mrp": 34.20,
+    "availableQuantity": 500,
+    "expiry": "2028-04",
+    "status": "Available",
+    "category": "OTC Medicines"
+  },
+  {
+    "id": 3,
+    "name": "Augmentin 625 DUO",
+    "brand": "GSK",
+    "mrp": 223.00,
+    "availableQuantity": 12,
+    "expiry": "2027-02",
+    "status": "Limited Stock",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 4,
+    "name": "Metformin 500mg (Glycomet)",
+    "brand": "USV Pvt Ltd",
+    "mrp": 58.00,
+    "availableQuantity": 350,
+    "expiry": "2027-09",
+    "status": "Available",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 5,
+    "name": "Atorvas 10mg (Atorvastatin)",
+    "brand": "Zydus Cadila",
+    "mrp": 95.00,
+    "availableQuantity": 0,
+    "expiry": "2026-12",
+    "status": "Out of Stock",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 6,
+    "name": "Combiflam Tablet",
+    "brand": "Sanofi India",
+    "mrp": 45.10,
+    "availableQuantity": 200,
+    "expiry": "2028-01",
+    "status": "Available",
+    "category": "OTC Medicines"
+  },
+  {
+    "id": 7,
+    "name": "Montek-LC",
+    "brand": "Sun Pharma",
+    "mrp": 198.00,
+    "availableQuantity": 85,
+    "expiry": "2027-08",
+    "status": "Available",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 8,
+    "name": "Vicks Vaporub 50g",
+    "brand": "Procter & Gamble",
+    "mrp": 155.00,
+    "availableQuantity": 45,
+    "expiry": "2029-03",
+    "status": "Available",
+    "category": "OTC Medicines"
+  },
+  {
+    "id": 9,
+    "name": "Accu-Chek Active Test Strips (50s)",
+    "brand": "Roche",
+    "mrp": 975.00,
+    "availableQuantity": 8,
+    "expiry": "2027-05",
+    "status": "Limited Stock",
+    "category": "Health Devices"
+  },
+  {
+    "id": 10,
+    "name": "Omee Capsule",
+    "brand": "Alkem Laboratories",
+    "mrp": 64.00,
+    "availableQuantity": 180,
+    "expiry": "2027-10",
+    "status": "Available",
+    "category": "OTC Medicines"
+  },
+  {
+    "id": 11,
+    "name": "Limcee Vitamin C 500mg",
+    "brand": "Abbott",
+    "mrp": 25.50,
+    "availableQuantity": 600,
+    "expiry": "2028-06",
+    "status": "Available",
+    "category": "Supplements"
+  },
+  {
+    "id": 12,
+    "name": "Volini Spray 100g",
+    "brand": "Sun Pharma",
+    "mrp": 320.00,
+    "availableQuantity": 30,
+    "expiry": "2028-10",
+    "status": "Available",
+    "category": "OTC Medicines"
+  },
+  {
+    "id": 13,
+    "name": "Himalaya Baby Powder 400g",
+    "brand": "Himalaya Wellness",
+    "mrp": 240.00,
+    "availableQuantity": 15,
+    "expiry": "2028-02",
+    "status": "Available",
+    "category": "Baby Care"
+  },
+  {
+    "id": 14,
+    "name": "Sebamed Baby Wash 200ml",
+    "brand": "Sebamed",
+    "mrp": 490.00,
+    "availableQuantity": 5,
+    "expiry": "2027-03",
+    "status": "Limited Stock",
+    "category": "Baby Care"
+  },
+  {
+    "id": 15,
+    "name": "Neurobion Forte",
+    "brand": "Procter & Gamble",
+    "mrp": 38.50,
+    "availableQuantity": 400,
+    "expiry": "2028-09",
+    "status": "Available",
+    "category": "Supplements"
+  },
+  {
+    "id": 16,
+    "name": "Ensulin NPH 40 IU/ml",
+    "brand": "Biocon",
+    "mrp": 145.00,
+    "availableQuantity": 20,
+    "expiry": "2026-10",
+    "status": "Available",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 17,
+    "name": "Telma 40mg (Telmisartan)",
+    "brand": "Glenmark Pharma",
+    "mrp": 112.00,
+    "availableQuantity": 250,
+    "expiry": "2027-12",
+    "status": "Available",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 18,
+    "name": "Dettol Liquid Antiseptic 500ml",
+    "brand": "Reckitt Benckiser",
+    "mrp": 218.00,
+    "availableQuantity": 50,
+    "expiry": "2029-05",
+    "status": "Available",
+    "category": "Personal Care"
+  },
+  {
+    "id": 19,
+    "name": "Omron HEM-7120 BP Monitor",
+    "brand": "Omron",
+    "mrp": 2450.00,
+    "availableQuantity": 4,
+    "expiry": "N/A",
+    "status": "Limited Stock",
+    "category": "Health Devices"
+  },
+  {
+    "id": 20,
+    "name": "N95 Medical Face Mask (Pack of 5)",
+    "brand": "3M India",
+    "mrp": 350.00,
+    "availableQuantity": 0,
+    "expiry": "N/A",
+    "status": "Out of Stock",
+    "category": "Medical Equipment"
+  }
+]
