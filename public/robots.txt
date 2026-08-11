@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aarush-pharmacity.vercel.app/sitemap.xml
