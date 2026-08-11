@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aarush-pharmacity.vercel.app/sitemap.xml
+Sitemap: https://chandni-medical.vercel.app/sitemap.xml
